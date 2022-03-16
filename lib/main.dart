@@ -38,7 +38,7 @@ class _inicioState extends State<inicio> {
     var basic = Basic.fromJson(map[1]);
     print("id");
     print(basic.id);
-    print("title");
+    print("titlel");
     print(basic.title);
     print("body");
     print(basic.body);
